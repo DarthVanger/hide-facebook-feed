@@ -2,7 +2,7 @@
   "name": "Hide Facebook Feed",
   "version": "1.0",
   "description": "Hides Facebook Feed on www.facebook.com, while allowing to use Messenger, Events etc.",
-  "permissions": ["activeTab", "declarativeContent", "storage"],
+  "permissions": ["activeTab", "declarativeContent"],
   "background": {
     "scripts": ["background.js"],
     "persistent": false
