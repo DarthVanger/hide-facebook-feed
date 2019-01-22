@@ -11,7 +11,7 @@
     {
       "matches": ["https://*.facebook.com/*"],
       "css": ["contentStyles.css"],
-      "js": ["contentScript.js"]
+      "js": ["hideFeed.js"]
     }
   ],
 
