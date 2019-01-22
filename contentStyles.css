@@ -5,7 +5,7 @@ div[role="feed"] {
 }
 
 div[role="feed"]:before {
-  content: 'Feed was removed by chrome plugin';
+  content: 'Feed was removed by a Chrome extension';
   position: absolute;
   z-index: 300;
   top: 0;
@@ -23,7 +23,7 @@ div#fb_stories_card_root {
 }
 
 div#fb_stories_card_root:before {
-  content: 'Stories were removed by chrome plugin';
+  content: 'Stories were removed by a Chrome extension';
   position: absolute;
   z-index: 300;
   top: 0;
