@@ -1,7 +1,7 @@
 {
-  "name": "No Facebook Feed",
+  "name": "Hide Facebook Feed",
   "version": "1.0",
-  "description": "Removes Facebook Feed on www.facebook.com, while allowing to use Messenger, Events etc.",
+  "description": "Hides Facebook Feed on www.facebook.com, while allowing to use Messenger, Events etc.",
   "permissions": ["activeTab", "declarativeContent", "storage"],
   "background": {
     "scripts": ["background.js"],
